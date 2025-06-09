@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GoldenDart
+comment0.text=\r\n\ A\ subclass\ of\ Dart\ that\ was\ meant\ to\ appear\ gold\ that\ never\ got\ finished\r\n\r\n\ @author\ Will\ Franzen\r\n\ @version\ 1.0.0\r\n
+comment1.params=target
+comment1.target=GoldenDart(Bloon)
+numComments=2

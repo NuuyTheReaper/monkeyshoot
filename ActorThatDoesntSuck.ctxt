@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ActorThatDoesntSuck
+comment0.text=\r\n\ A\ subclass\ of\ Actor\ that\ has\ setX\ and\ setY,\ because\ Greenfoot\ left\ them\ out\r\n\ for\ no\ good\ reason.\r\n\r\n\ @author\ Will\ Franzen\r\n\ @version\ 1.0.0\r\n
+comment1.params=x
+comment1.target=void\ setX(int)
+comment2.params=y
+comment2.target=void\ setY(int)
+comment3.params=point
+comment3.target=void\ moveTo(Point)
+numComments=4

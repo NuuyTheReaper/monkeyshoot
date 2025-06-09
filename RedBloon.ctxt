@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RedBloon
+comment0.text=\r\n\ A\ subclass\ of\ Bloon\ that\ is\ red\r\n\r\n\ @author\ Will\ Franzen\r\n\ @version\ 1.0.0\r\n
+comment1.params=path
+comment1.target=RedBloon(Path)
+comment2.params=path
+comment2.target=RedBloon(PathIterator)
+comment3.params=
+comment3.target=void\ pop()
+comment4.params=
+comment4.target=int\ numInnerBloons()
+numComments=5
